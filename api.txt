@@ -1,0 +1,6 @@
+https://newsapi.org/v2/everything?q=tesla&from=2024-10-11&sortBy=publishedAt&apiKey=5c41ef4ab46b4a32ad2f06599ff69599
+https://newsapi.org/v2/top-headlines?apiKey=5c41ef4ab46b4a32ad2f06599ff69599&q=sports
+https://newsapi.org/v2/top-headlines?country=us&apiKey=5c41ef4ab46b4a32ad2f06599ff69599
+
+movie
+https://api.themoviedb.org/3/discover/movie?api_key=a9c2209fbfe9ea2159b323d70bd9fd45
